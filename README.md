@@ -12,6 +12,10 @@ For the build that is used here, the following boards from Amazon were used: [Ar
 
 These are based on the Sparkfun Pro Micro but with a USB-C port instead of MicroUSB. The USB-C port was preferred for our builds as we have tons of these cables lying around and it was easier to shape our 3D printed housings (not part of this repository).
 
+Any DB9 Male Connector can be used for these. If you're not using a 3D printed housing, a male DB9 connector with breakout board is a great option: [DB9 Breakout Connector](https://www.amazon.com/dp/B09L7JWNDQ)
+
+*NOTE: The links here are examples of what to get, these are not direct recommendations. Make your own choice based on your needs and budget.*
+
 ### Wiring
 
 ![Genesis Controller Pinout](/docs/pinout-controller-side.gif)
