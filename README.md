@@ -54,3 +54,5 @@ The boards linked above are by default set to 5v. This is what we want as the Ge
 * Pin 5 -> VCC
 
 *OPTIONAL: RXI pin is used for LED+ as it's right next to a ground pin for a pin header that we use here to indicate power if you build this into a case. This is entirely optional.*
+
+*WARNING: If you use the optional power LED, ensure you install a 220Ω resistor on either one of the wires to prevent damage to the LED or MCU*

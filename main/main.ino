@@ -239,6 +239,7 @@ void setup()
 
   gamepad.begin();
 
+  pinMode(Pin::PowerLED, OUTPUT);
   digitalWrite(Pin::PowerLED, GamepadAPI::High);
 }
 
